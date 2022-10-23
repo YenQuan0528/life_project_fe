@@ -4,6 +4,8 @@
 
 > 後端 github： https://github.com/zyuan8591/life_project_be
 
+> 成果發表： https://www.youtube.com/watch?v=4gVpL5FxvYs
+
 ## 網站頁面及功能
 
 ### 頁首
